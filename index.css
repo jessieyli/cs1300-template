@@ -1,1 +1,19 @@
-/* Put your style information here! */
+body {
+  padding: 2% 5%;
+  font-family: "Open Sans", sans-serif;
+}
+h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  text-align: center;
+}
+h3 {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+}
+.images {
+  text-align: center;
+}
